@@ -13,9 +13,9 @@ Example: using `math.txt`, pressing `` ` `` right after typing `e` - the base ke
 
 You can define your own set of cycle & alt keys by making tab-delimited rows of base keys followed by your desired alt key(s), ending with the row `CYCLE_KEY your_cycle_key` to associate the previous definitions to a `your_cycle_key`.
 
-For example, `math.txt` contains the following defintions:
+For example, `math.txt` contains the following defintions
 
-[code]
+~~~~
 a α
 b β
 .
@@ -27,7 +27,7 @@ e ε ∈
 .
 z ℤ
 CYCLE_KEY `
-[\code]
+~~~~
 
 (The base keys do not have to be in alphabetical order).
 
