@@ -29,6 +29,6 @@ z ℤ
 CYCLE_KEY `
 ~~~~
 
-(The base keys do not have to be in alphabetical order).
+(The base keys do not have to be in alphabetical order.)
 
-To switch to another definition simply press Ctrl+Shift+CycleKey, where CycleKey represents any currently defined cycle key.
+To switch to another definition simply press Ctrl+Shift+CycleKey, where CycleKey represents any defined cycle key.
